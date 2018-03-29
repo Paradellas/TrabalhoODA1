@@ -1,4 +1,4 @@
-# TrabalhoODA1
+# TrabalhoOEA1
 
 1 - No terminal, va até o destido src/BuscaBinaria/
 
